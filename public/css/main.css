@@ -659,7 +659,6 @@ body {
 .form-control{
     background-color: #D2D2D2;
     color: white;
-    padding: 12px 15px;
 }
 
 .form-control:focus {
